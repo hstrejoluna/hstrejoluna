@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hstrejoluna&label=Profile%20views&color=0e75b6&style=flat-square" alt="hstrejoluna" /> </p>
 
-- 🔭 I’m currently working on **Leading 3 Jr. Developer Teams at No Country*
 
-- 🌱 I’m currently learning **NextJS, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://hstrejoluna.com.mx](https://hstrejoluna.com.mx)
 
