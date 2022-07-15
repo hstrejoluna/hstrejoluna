@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://hstrejoluna.com.mx](https://hstrejoluna.com.mx)
+- 👨‍💻 This is my portfolio: [https://hstrejoluna.netlify.app](https://hstrejoluna.netlify.app)
 
 - 💬 Ask me about **React, CSS, GNU/Linux**
 
