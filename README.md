@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 This is my portfolio: [https://hstrejoluna.netlify.app](https://hstrejoluna.netlify.app)
+- 👨‍💻 This is my portfolio: [https://hstrejoluna.com](https://hstrejoluna.com)
 
 - 💬 Ask me about **React, CSS, GNU/Linux**
 
