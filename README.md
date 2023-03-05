@@ -6,6 +6,8 @@
 
 
 - 👨‍💻 This is my portfolio: [https://hstrejoluna.com](https://hstrejoluna.com)
+- 👨‍💻 This is my digital garden: [https://hstrejoluna-digital-garden.netlify.app](https://hstrejoluna-digital-garden.netlify.app)
+- 
 
 - 💬 Ask me about **React, CSS, GNU/Linux**
 
