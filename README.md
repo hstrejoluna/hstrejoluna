@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, CSS, GNU/Linux**
 
-- 📫 How to reach me **hectorsebastiantrejoluna@gmail.com**
+- 📫 How to reach me **contacto@hstrejoluna.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KxZ4i9ZkMSgGK5MkNGDiis0Okw595lh1/view](https://drive.google.com/file/d/1KxZ4i9ZkMSgGK5MkNGDiis0Okw595lh1/view)
 
