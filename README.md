@@ -5,11 +5,11 @@
 
 
 
-- 👨‍💻 This is my portfolio: [https://hstrejoluna.com](https://hstrejoluna.com)
+- 👨‍💻 This is my portfolio: [https://hstrejoluna.com](https://hstrejoluna.netlify.app)
 - 👨‍💻 This is my digital garden: [https://hstrejoluna-digital-garden.netlify.app](https://hstrejoluna-digital-garden.netlify.app)
 - 
 
-- 💬 Ask me about **React, CSS, GNU/Linux**
+- 💬 Ask me about **Nextjs, Google Cloud, GNU/Linux**
 
 - 📫 How to reach me **contacto@hstrejoluna.com**
 
@@ -20,8 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hstrejoluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hstrejoluna" height="30" width="40" /></a>
-<a href="https://fb.com/hstrejoluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hstrejoluna" height="30" width="40" /></a>
-<a href="https://instagram.com/hstrejoluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hstrejoluna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
