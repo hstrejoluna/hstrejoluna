@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contacto@hstrejoluna.com**
 
-- 📄 Know about my experiences [watch](https://docs.google.com/document/d/1X5a1AVT0OcHVyfEVWkzGJr3DCmmZeoHuVrpLKSCmhyw/edit?usp=sharing)
+- 📄 Know about my experiences [watch](https://docs.google.com/document/d/1ULsnuPxC3qmA5ujffXxN9-ZpJhStIz80DTCw1iULXBw/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about free (as in freedom) software music production**
 
