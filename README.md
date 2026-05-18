@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **Nextjs, Google Cloud, GNU/Linux**
 
-- 📫 How to reach me **contacto@hstrejoluna.com**
+- 📫 How to reach me **hectortrejoluna23@gmail.com**
 
-- 📄 Know about my experiences [watch](https://docs.google.com/document/d/1ULsnuPxC3qmA5ujffXxN9-ZpJhStIz80DTCw1iULXBw/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about free (as in freedom) software music production**
 
